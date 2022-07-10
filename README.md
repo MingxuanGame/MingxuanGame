@@ -1,11 +1,41 @@
-### 我的自述，公示一段时间
+## **👏There**
 
-0. 我并不是大佬，有许多比我年纪小的人学编程学算法，也有许多 OIer。我只是一名学生，并不熟悉这些，我只是随我兴趣而来；  
-1. 我并不懂 C/CPP，我只会 py 以及一点 Java 基础；  
-2. 指针很难，也很绕，这是大部分初学者的感受；  
-3. 正因我是学生，所以无足够精力去细致学习 C/CPP/GO；  
-4. 指针这东西，我知道认真学习不难；  
-5. 我并未经历过系统性的编程学习；  
-7. 我从未参与过任何算法/C/CPP竞赛；  
-8. 我奉行 Code for Fun，学习编程完全是自己的爱好，而不是被他人强加的；  
-9. 如果觉得我说的有问题，我可以沉默。
+📰My blog: https://blog.mxgame.top or https://mingxuangame.github.io
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanGame"/>
+
+
+📚 **I'm a student.**
+
+✏ **I'm studying these now**
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-585858?style=flat-square&logo=C&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffca18?style=flat-square&logo=JavaScript&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)
+
+🔨 **I use these tools to code**
+
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=pycharm&logoColor=fff)
+![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=goland&logoColor=fff)
+
+ **~~These are other tools~~**
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MingxuanGame" />
+
+
+📫 **Contact me**
+
+* [![Email](https://img.shields.io/badge/Email-MingxuanGame@outlook.com-1?style=social&logoColor=fff)](mailto:MingxuanGame@outlook.com)
+* [![QQ](https://img.shields.io/badge/QQ-1060148379-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060148379&website=www.oicqzone.com)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2041%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
+<!--END_SECTION:waka-->
