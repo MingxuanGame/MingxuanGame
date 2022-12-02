@@ -45,6 +45,11 @@
 
 ### 📊Statistic
 
+<details>
+  <summary>Click</summary>
+  
 ![All](./github-metrics.svg)
+
+</details>
 
 </div>
