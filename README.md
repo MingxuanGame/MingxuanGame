@@ -2,7 +2,7 @@
 
 ## 👏There is **MingxuanGame**!
 
-*Do what you like.*
+*Want to do everything, but do nothing.*
 
 [![wakatime](https://wakatime.com/badge/user/2da454b7-7cb8-4e03-b041-1de7d643650c.svg?&style=flat-square)](https://wakatime.com/@2da454b7-7cb8-4e03-b041-1de7d643650c)
 
@@ -43,7 +43,7 @@
 [![graiax.cn](https://github-readme-stats.vercel.app/api/pin/?username=GraiaCommunity&repo=Docs&show_owner=true&hide_border=true)](https://github.com/GraiaCommunity/Docs)
 [![docs.go-cqhttp.org](https://github-readme-stats.vercel.app/api/pin/?username=ishkong&repo=go-cqhttp-docs&show_owner=true&hide_border=true)](https://github.com/ishkong/go-cqhttp-docs)
 
-### 📊Statistic
+### 📊*Statistic*
 
 <details>
   <summary>Click</summary>
