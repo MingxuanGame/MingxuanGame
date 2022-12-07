@@ -12,6 +12,7 @@
 
 [![BiliBili](https://img.shields.io/badge/BiliBili-MingxuanGame-pink?style=flat-square&logoColor=fff)](https://space.bilibili.com/478775392)
 [![Blog](https://img.shields.io/badge/Blog-blog.mxgame.top-ea6632?style=flat-square&logoColor=fff)](http://blog.mxgame.top/)
+[![Email](https://img.shields.io/badge/Twitter-@MingxuanAWA-1c9aef?style=flat-square&logoColor=fff)](https://twitter.com/MingxuanAWA)
 
 <!-- [![Stats](https://img.shields.io/github/stars/MingxuanGame?affiliations=OWNER&color=32eacb&label=Stars&logo=github&style=flat-square)](http://blog.mxgame.top/) -->
 
