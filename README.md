@@ -35,14 +35,11 @@
 
 ### ✨*Projects/Contributed*
 
-[![Graia Ariadne](https://github-readme-stats.vercel.app/api/pin/?username=GraiaProject&repo=Ariadne&show_owner=true&hide_border=true)](https://github.com/GraiaProject/Ariadne)
-
-[![nonebot2](https://github-readme-stats.vercel.app/api/pin/?username=nonebot&repo=nonebot2&show_owner=true&hide_border=true)](https://github.com/nonebot/nonebot2)
-[![zhenxun_bot](https://github-readme-stats.vercel.app/api/pin/?username=HibiKier&repo=zhenxun_bot&show_owner=true&hide_border=true)](https://github.com/HibiKier/zhenxun_bot)
+[![Herta-villa](https://github-readme-stats.vercel.app/api/pin/?username=Herta-villa&repo=Herta-villa&show_owner=true&hide_border=true)](https://github.com/Herta-villa/Herta-villa)
+[![Herta-villa-SDK](https://github-readme-stats.vercel.app/api/pin/?username=Herta-villa&repo=Herta-villa-SDK&show_owner=true&hide_border=true)](https://github.com/Herta-villa/Herta-villa-SDK)
 
 [![GenshinUID](https://github-readme-stats.vercel.app/api/pin/?username=KimigaiiWuyi&repo=GenshinUID&show_owner=true&hide_border=true)](https://github.com/KimigaiiWuyi/GenshinUID)
-[![graiax.cn](https://github-readme-stats.vercel.app/api/pin/?username=GraiaCommunity&repo=Docs&show_owner=true&hide_border=true)](https://github.com/GraiaCommunity/Docs)
-[![docs.go-cqhttp.org](https://github-readme-stats.vercel.app/api/pin/?username=ishkong&repo=go-cqhttp-docs&show_owner=true&hide_border=true)](https://github.com/ishkong/go-cqhttp-docs)
+[![StarRailUID](https://github-readme-stats.vercel.app/api/pin/?username=qwerdvd&repo=StarRailUID&show_owner=true&hide_border=true)](https://github.com/qwerdvd/StarRailUID)
 
 ### 📊*Statistic*
 
