@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-MingxuanGame@outlook.com-57c4e5?style=flat-square&logoColor=fff)](mailto:MingxuanGame@outlook.com)
 [![QQ-1](https://img.shields.io/badge/QQ-1060148379-e5ac57?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=mcs-cON_aPNfc3hO8-H7lWJHDX-5nKr7&noverify=0)
-[![QQ-2](https://img.shields.io/badge/QQ-1085285105-8957e5?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=Ti-iAkNfy9IIiwUVZdHM5ghCgmSOVLmY&noverify=0)
+[![QQ-2](https://img.shields.io/badge/QQ-1185285105-8957e5?style=flat-square&logoColor=fff)](https://qm.qq.com/cgi-bin/qm/qr?k=Ti-iAkNfy9IIiwUVZdHM5ghCgmSOVLmY&noverify=0)
 
 [![BiliBili](https://img.shields.io/badge/BiliBili-MingxuanGame-pink?style=flat-square&logoColor=fff)](https://space.bilibili.com/478775392)
 [![Blog](https://img.shields.io/badge/Blog-blog.mxgame.top-ea6632?style=flat-square&logoColor=fff)](http://blog.mxgame.top/)
