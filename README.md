@@ -2,7 +2,7 @@
 
 ## 👏There is **MingxuanGame**!
 
-*Do like yourself, and do only like yourself.*
+*Be yourself. Believe in yourself.*
 
 [![wakatime](https://wakatime.com/badge/user/2da454b7-7cb8-4e03-b041-1de7d643650c.svg?&style=flat-square)](https://wakatime.com/@2da454b7-7cb8-4e03-b041-1de7d643650c)
 
