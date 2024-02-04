@@ -39,7 +39,7 @@
 [![Herta-villa-SDK](https://github-readme-stats.vercel.app/api/pin/?username=Herta-villa&repo=Herta-villa-SDK&show_owner=true&hide_border=true)](https://github.com/Herta-villa/Herta-villa-SDK)
 
 [![GenshinUID](https://github-readme-stats.vercel.app/api/pin/?username=KimigaiiWuyi&repo=GenshinUID&show_owner=true&hide_border=true)](https://github.com/KimigaiiWuyi/GenshinUID)
-[![StarRailUID](https://github-readme-stats.vercel.app/api/pin/?username=qwerdvd&repo=StarRailUID&show_owner=true&hide_border=true)](https://github.com/qwerdvd/StarRailUID)
+[![StarRailUID](https://github-readme-stats.vercel.app/api/pin/?username=baiqwerdvd&repo=StarRailUID&show_owner=true&hide_border=true)](https://github.com/baiqwerdvd/StarRailUID)
 
 ### 📊*Statistic*
 
