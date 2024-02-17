@@ -58,7 +58,7 @@ Learning:
 
 ![C](https://img.shields.io/badge/-C-grey?style=flat-square&logo=C&logoColor=fff)
 
-Maybe learning in the futhre:
+Maybe learning in the future:
 
 - ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust&logoColor=fff)
 - ![Vue](https://img.shields.io/badge/-Vue-228b22?style=flat-square&logo=vuedotjs&logoColor=fff)
