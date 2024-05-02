@@ -1,4 +1,3 @@
-```python
 from typing import ClassVar
 
 from earth.entity import Human, Lovable
@@ -46,4 +45,3 @@ class MingxuanGame(Human, Lovable):
 me = MingxuanGame()
 world.add_thing(me)
 world.execute(me)
-```
