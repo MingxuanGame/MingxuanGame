@@ -21,7 +21,7 @@ class MingxuanGame(Human, Lovable):
     role: Student = Student.SENIOR_HIGH
 
     tools: "list[OS | Editor]" = [
-        Windows._10,
+        Windows._11,
         Linux.WSL.Ubuntu,
         Editor.VSCode,
         Editor.IntellijIdea,
