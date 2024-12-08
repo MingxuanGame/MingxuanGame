@@ -16,7 +16,7 @@ from earth.world import current_world as world
 
 
 class MingxuanGame(Human, Lovable):
-    age: int = 16
+    age: int = 17
     nickname: ClassVar[set] = {"mx", "mxg", "mg", ...}
     role: Student = Student.SENIOR_HIGH
 
