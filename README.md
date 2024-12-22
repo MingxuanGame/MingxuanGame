@@ -9,7 +9,7 @@
 ## Code Styles
 
 - __Languages__: Python
-- __Persuit__: Free Software, Easy-to-Use & High-Quality Program.
+- __Pursuit__: Free Software, Easy-to-Use & High-Quality Program.
 - __Indents__: Space
 - __License__: MIT
 
