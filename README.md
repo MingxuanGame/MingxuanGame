@@ -1,49 +1,23 @@
-```python
-from typing import ClassVar
+# ✨MingxuanGame -- Code for love & fun!
 
-from earth.entity import Human, Lovable
-from earth.role import Student
-from earth.things.computer import (
-    OS,
-    Editor,
-    Framework,
-    Language,
-    Linux,
-    Windows,
-)
-from earth.utils.links import GitHub
-from earth.world import current_world as world
+- __Name__: MingxuanGame
+- __Nickname__: Forever?, mxg
+- __Age__: 17 (`2007/12/04`)
+- __Email__: `MingxuanGame@outlook.com`
+- __PGP Public Key__: `52567BE322E8D36D`
 
+## Code Styles
 
-class MingxuanGame(Human, Lovable):
-    age: int = 17
-    nickname: ClassVar[set] = {"mx", "mxg", "mg", ...}
-    role: Student = Student.SENIOR_HIGH
+- __Languages__: Python
+- __Persuit__: Free Software, Easy-to-Use & High-Quality Program.
+- __Indents__: Space
+- __License__: MIT
 
-    tools: "list[OS | Editor]" = [
-        Windows._11,
-        Linux.WSL.Ubuntu,
-        Editor.VSCode,
-        Editor.IntellijIdea,
-    ]
-    skills: list[Language] = [Language.Python]
-    learning: "list[Language | Framework]" = [
-        Language.C,
-        Language.JavaScript,
-        Language.CSharp,
-        Framework.Vue,
-        Language.Go,
-    ]
+## Projects
 
-    projects: list[GitHub] = [GitHub("Herta-villa/Herta-villa-SDK")]
-    contributed: list[GitHub] = [
-        GitHub("KimigaiiWuyi/GenshinUID"),
-        GitHub("baiqwerdvd/StarRailUID"),
-        GitHub("nonebot/nonebot2"),
-    ]
+- [Herta-villa/pylibob](https://github.com/Herta-villa/pylibob)
 
+## Environment
 
-me = MingxuanGame()
-world.add_thing(me)
-world.execute(me)
-```
+- __OS__: Arch Linux / Windows 11
+- __Editor__: VSCode / Rider
